@@ -54,11 +54,6 @@ The output CSV will include:
 - Filtered rows where `LSOA.name_trimmed` contains "Hartlepool".
 - A new `FolderName` column indicating the original folder.
 
-#### Sample Output
-| LSOA.name         | LSOA.name_trimmed | OtherColumn1 | FolderName  |
-|-------------------|-------------------|--------------|-------------|
-| Hartlepool 001A   | Hartlepool   | Value1       | Folder1     |
-| Hartlepool 001B   | Hartlepool    | Value2       | Folder2     |
 
 ## Function Details
 ### Signature
